@@ -24,6 +24,7 @@
   <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="radixUI" height="30" width="40" src="https://avatars.githubusercontent.com/u/75042455?v=4" />
+  <img align="center" alt="vitest" height="30" width="40" src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" />
 </div>
   
 ## 
