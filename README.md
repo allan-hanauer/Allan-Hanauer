@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allan-hanauer&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allan-hanauer&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-  
+  <hr>
   <h1> Skills</h1>
 <div style="display:flex;align-items:center; gap:5px;justify-content:space-between;" align='center'>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
