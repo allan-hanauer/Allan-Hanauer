@@ -11,7 +11,7 @@
 </div>
   <hr>
   <h1> Skills</h1>
-<div style="display:flex;align-items:center; gap:6px;justify-content:space-between;" align='center'>
+<div style="display:flex;align-items:center; gap:5px;justify-content:space-between;" align='center'>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
